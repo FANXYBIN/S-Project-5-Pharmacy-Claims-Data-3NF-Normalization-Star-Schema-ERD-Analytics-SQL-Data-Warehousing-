@@ -164,11 +164,11 @@ Your ERD was built by placing the fact table at the center and linking both dime
 - **Ambien** was filled **5 times**.
 
 <div align="center">
-  <img src="images/drug_fill_counts1.png" width="500"/>
+  <img src="images/drug_fill_counts1.png" width="400"/>
 </div>
 
 <div align="center">
-  <img src="images/drug_fill_counts2.png" width="500"/>
+  <img src="images/drug_fill_counts2.png" width="400"/>
 </div>
 
 ---
